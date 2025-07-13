@@ -60,9 +60,9 @@ Corporate-Tax-Revenue-Analysis/
 
 ---
 
-##  Dashboard Preview
 
-![Dashboard Screenshot](Images/dashboard_screenshot.png)
+
+
 
 ---
 
