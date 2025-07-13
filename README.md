@@ -5,17 +5,17 @@ This project analyzes the **State/UT/Outside India-wise Corporate Tax Revenue** 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 Corporate-Tax-Revenue-Analysis/
 │
-├── 📁 Data/
+├──  Data/
 │ └── State_Revenue_Tax_Excel.xlsx
 │
-├── 📁 PowerBI/
+├──  PowerBI/
 │ └── State_Revenue_Tax.pbix
 │
-├── 📁 Images/
+├──  Images/
 │ └── dashboard_screenshot.png
 ││
 ├── README.md
@@ -23,7 +23,7 @@ Corporate-Tax-Revenue-Analysis/
 
 ---
 
-## 🧰 Tools Used
+##  Tools Used
 
 - **Microsoft Excel** – Data cleaning, structure formatting, and growth calculations
 - **Power BI Desktop** – Data import, transformation, DAX calculations, dashboard creation
@@ -31,17 +31,17 @@ Corporate-Tax-Revenue-Analysis/
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
-- 📈 **Line Chart** – Corporate tax revenue trend from FY 2022–2025
-- 📊 **Bar Chart** – State-wise growth in corporate tax collection (2024–25)
-- 🧮 **KPI Cards** – Total revenue, Highest growth %, and Top-performing state
-- 📋 **Matrix Table** – Detailed comparison of revenue across years with growth %
-- 🎛 **Interactive Slicers** – Filter by State and Year
+-  **Line Chart** – Corporate tax revenue trend from FY 2022–2025
+-  **Bar Chart** – State-wise growth in corporate tax collection (2024–25)
+-  **KPI Cards** – Total revenue, Highest growth %, and Top-performing state
+-  **Matrix Table** – Detailed comparison of revenue across years with growth %
+-  **Interactive Slicers** – Filter by State and Year
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 - Tracked tax revenue across 3 consecutive years
 - Identified states/UTs with **highest and lowest growth**
@@ -50,7 +50,7 @@ Corporate-Tax-Revenue-Analysis/
 
 ---
 
-## 📌 How to Use
+##  How to Use
 
 1. Download the `State_Revenue_Tax_Excel.xlsx` file from `/Data/`
 2. Open the Power BI project file `State_Revenue_Tax.pbix` from `/PowerBI/`
@@ -60,26 +60,26 @@ Corporate-Tax-Revenue-Analysis/
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 ![Dashboard Screenshot](Images/dashboard_screenshot.png)
 
 ---
 
-## 📥 Dataset Source
+##  Dataset Source
 
-- 📊 [State/UT-wise Corporate Tax Revenue – Data.gov.in](https://data.gov.in/resource/stateutoutside-india-wise-details-amount-revenue-generated-corporate-taxes)
+-  [State/UT-wise Corporate Tax Revenue – Data.gov.in](https://data.gov.in/resource/stateutoutside-india-wise-details-amount-revenue-generated-corporate-taxes)
 
 ---
 
-## 🙋‍♂️ Author
+##  Author
 
 **Gautam Kumar**  
 [LinkedIn](https://www.linkedin.com/in/gautam-kumar-2935bb178/) • [Email](mailto:gk4137061@gmail.com)
 
 ---
 
-## 📣 License
+##  License
 
 This project is for educational and portfolio purposes. Dataset belongs to the public domain ([data.gov.in](https://data.gov.in)).
 
